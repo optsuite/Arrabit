@@ -1,6 +1,7 @@
 # Arrabit
 **A**ugmented **R**ayleigh-**R**itz (ARR) And **B**lock **It**eration for large-cale eigenpair computation
 
+[The code can be downloaded at this link](https://bicmr.pku.edu.cn/~wenzw/arrabit.html).
 
 ## Introduction 
 **Arrabit** is a MATLAB solver for computing many eigenpairs of large-scale 
